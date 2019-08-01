@@ -1,0 +1,22 @@
+{
+  "name": "458",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/asenaasahin/458.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/asenaasahin/458/issues"
+  },
+  "homepage": "https://github.com/asenaasahin/458#readme",
+  "dependencies": {
+    "jest": "^24.8.0"
+  }
+}
